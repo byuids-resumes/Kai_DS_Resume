@@ -2,45 +2,34 @@
 layout: resume
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kaidi Zhang
+Software Engineering Major with Software Design Certificate at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="kaizhangd@gmail.com">kaizhangd@gmail.com</a>
 </div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021 - 2025`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- Full academic scholarship with 3.96 GPA
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2023 - September 2023`
+__Family Search__, Salt Lake City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- This will be added later 
 
-### Data Science Lead
+### Online Course Evcaluation Specialist
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`March 2022 - Present`
+__Brigham Young University - Idaho__, 
 
 - Developed a predicted model to support Westmark in custumer conversion from dealer loans.
 - Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 

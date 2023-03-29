@@ -1,89 +1,66 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Kai's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Kaidi Zhang
+Software Engineering Major with Software Design Certificate at Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="kaizhangd@gmail.com">kaizhangd@gmail.com</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021 - 2025`
+__Brigham Young University - Idaho__, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- Full academic scholarship with 3.96 GPA
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2023 - September 2023`
+__Family Search__, Salt Lake City, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- This will be added later 
 
-### Data Science Lead
+### Online Course Evcaluation Specialist
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`March 2022 - Present`
+__Brigham Young University - Idaho__, Specialist
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Worked with 3 Universities, to analyze their online course data.
+- Provided valuable information for courses improvements to online course designers.	 
+- Interviewed and worked with HR to hire new employees.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### HackAThon
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`Oct 2022 - OCt 2022`
+__HackAThon__
 
-### Data Science Consulting Team
+- Designed and implemented a GUI system with Tkinter to work with the back-end system.                
+- Offered a database merge system for local Idaho company (Binary Cocoa).
+- Worked closely with Binary Cocoa manager for 2 weeks and implemented the system in 24 hours.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+## LEADERSHIP EXPERIENCE
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`Jan 2017 - Jan 2018`
+__Club President of Social Activity__, PengZhou
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Visited gerocomium regularly and organized student volunteers.                          
+- Raised fund for daily club use.     
+- Collaborated with Red Cross Association China to promote China charity work.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`Feb 2018 - Aug 2020`
+__Full-Time Volunteer Representative__, Salt Lake City
 
+- Invested total of 10,950+ hours for service projects. Designed to help people set goals in life.
+- Designed and taught monthly training meeting for 4 teams, directed 30 international volunteers for training, motivating, setting goals, evaluating performance, and solving problems. 
 
-## Service and Work History
+## SKILL LIST
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Python, MySQL, C++, C#, FireStore, HTML, JavaScript, R
 
 
