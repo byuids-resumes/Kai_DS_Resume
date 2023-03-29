@@ -12,8 +12,6 @@ Software Engineering Major with Software Design Certificate at Brigham Young Uni
 
 ## Education
 
-test
-
 `2021 - 2025`
 __Brigham Young University - Idaho__, Rexburg, Idaho
 
