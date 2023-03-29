@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Kai's Resume
 ---
 # Kaidi Zhang
